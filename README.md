@@ -1,4 +1,4 @@
-# Intune Configuration Custom MacOS Profile
+# Intune Custom Configuration MacOS Profile - Custom Login Banner
 
 > Austin Lai | March 12th, 2022
 
@@ -6,7 +6,7 @@
 
 <!-- Description -->
 
-Intune Configuration Custom MacOS Profile.
+Intune Custom Configuration MacOS Profile - Custom Login Banner.
 
 Custom Banner for MacOS, created using Mac Profile Creator.
 
@@ -18,7 +18,7 @@ Custom Banner for MacOS, created using Mac Profile Creator.
 
 <!-- TOC -->
 
-- [Intune Configuration Custom MacOS Profile](#intune-configuration-custom-macos-profile)
+- [Intune Custom Configuration MacOS Profile - Custom Login Banner](#intune-custom-configuration-macos-profile---custom-login-banner)
     - [Table of Contents](#table-of-contents)
     - [Custom Banner for MacOS - Intune mobileconfig](#custom-banner-for-macos---intune-mobileconfig)
 
